@@ -42,6 +42,7 @@ python -m empmgr.cli
 ## Usage
 
 Follow the menu displayed in the terminal to manage employee records and access the available operations.
+Test-CLI usage included
 
 ## Git History
 

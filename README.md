@@ -1,5 +1,40 @@
 \# Employee Data Manager
 
+Setup and Run (Windows)
+
+Follow these steps in PowerShell to set up and run the Employee Manager application.
+
+1. Navigate to the project directory
+cd "$HOME\Desktop\Training\Python Bootcamp\Day 6\Task 1 — Package structure\empmgr-project"
+
+2. Create a virtual environment
+py -m venv .venv
+
+3. Activate the virtual environment
+.\.venv\Scripts\Activate.ps1
+
+
+If PowerShell blocks script execution, run:
+
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned
+
+
+Then activate the environment again.
+
+4. Install dependencies
+python -m pip install --upgrade pip
+python -m pip install -r requirements.txt
+
+5. Run the application
+python -m empmgr.cli
+
+6. Use the application
+Enter 1 to list employees.
+Enter 2 to add an employee.
+Enter 3 to quit and display the employee table.
+7. Deactivate the virtual environment
+deactivate
+
 
 
 A Python application for managing employee records.

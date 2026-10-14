@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Yashvardhan Jadhav",
+    "email": "jadhav@gmail.com",
+    "department": "AI",
+    "salary": 100000.0
+  },
+  {
+    "id": 2,
+    "name": "Shardul",
+    "email": "shardul@gmail.com",
+    "department": "CS",
+    "salary": 300000.0
+  },
+  {
+    "id": 3,
+    "name": "Niral",
+    "email": "niral@gmail.com",
+    "department": "IT",
+    "salary": 1.0
+  },
+  {
+    "id": 4,
+    "name": "raj",
+    "email": "raj@gmail.com",
+    "department": "it",
+    "salary": 30000.0
+  },
+  {
+    "id": 5,
+    "name": "tanmay",
+    "email": "tan@gmail.com",
+    "department": "cs",
+    "salary": 50000.0
+  },
+  {
+    "id": 6,
+    "name": "yash",
+    "email": "ya@gmail.com",
+    "department": "it",
+    "salary": 20000.0
+  }
+]

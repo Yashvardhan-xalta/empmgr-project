@@ -47,3 +47,11 @@ Test-CLI usage included
 ## Git History
 
 Run `git log --oneline --graph --all` in the terminal to view the project’s commit history.
+
+## Peer test
+
+- Repo tested : https://github.com/Yashvardhan-xalta/empmgr-project.git
+- Setup: Successfull
+- First-time run: [Yes]
+- Feedback: https://github.com/Yashvardhan-xalta/empmgr-project/issues/2
+- Test was performed using another account.
